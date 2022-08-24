@@ -14,7 +14,7 @@ function Header() {
     }
   }
   return (
-    <nav className="primary-nav w-full flex justify-between bg-[#1b8188] items-center p-5 shadow-md">
+    <nav className="primary-nav w-full flex justify-between bg-[#f3164d] items-center p-5 shadow-md">
       <div className="hover:shadow-md p-2 hover:bg-[#3f989e] transition duration-700 ease-in-out">
         <NavLink style={navLinkStyles} to="/">
           Endaline
